@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 elastic/filebeat:7.17.22
 elastic/filebeat:8.14.1
+logstash
